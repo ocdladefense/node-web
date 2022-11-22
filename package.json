@@ -1,6 +1,7 @@
 {
   "name": "@ocdladefense/web",
   "version": "1.0.0",
+  "main": "src/web.js",
   "scripts": {
     "build": "babel assets/js/src -d assets/js/dist"
   },

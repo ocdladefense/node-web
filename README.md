@@ -1,14 +1,9 @@
-# Node Template
-Example module for working with JavaScript in NodeJS.  The module has a default build process that uses babel for transpilation, especially virtual nodes.
+# node-web
+A web-enhanced library of JavaScript functions for use in basic HTML scripting.
 
 
-# Change Log
+# Version History
 
 
-## 1.0.1
-Expose "npm run build" command to transpile JSX to JavaScript.
-
-
-
-## version 1.0.0
-Original version.
+## 1.0.0
+* <code>domReady</code> function to execute code as soon as the web page is ready.
